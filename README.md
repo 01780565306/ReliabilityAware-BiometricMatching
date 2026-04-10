@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO_NAME/blob/main/reliability_biometric_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/01780565306/ReliabilityAware-BiometricMatching/blob/main/reliability_biometric_demo.ipynb)
 
 # Reliability-Aware Biometric Matching with Calibrated Uncertainty
 
